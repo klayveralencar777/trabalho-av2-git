@@ -18,4 +18,4 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno Klayver Alencar (owner), Aluno Maria Clara Fernandes, Henrique Meireles.
