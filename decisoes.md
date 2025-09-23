@@ -6,3 +6,6 @@ Registre aqui:
 - **Alternativas consideradas**.
 - **Decisão final** e **racional**.
 - **Quem resolveu** (A/B/C) e **data**.
+
+-Decidimos ficar com a cor primária em verde e o modo escuro/claro com preto/branco
+
