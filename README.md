@@ -1,4 +1,4 @@
-# Mini App – GitFlow (Equipe XX)
+# Mini App – GitFlow
 
 Aplicação simples em **HTML/CSS/JS** usada para praticar **Git, GitHub e GitFlow** sem Pull Requests.
 Fluxo proposto: `main`, `develop`, `feature/*`, `release/*`, `hotfix/*`.
@@ -18,4 +18,4 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno Klayver Alencar (owner), Aluno Maria Clara Fernandes, Henrique Meireles.
+- Alunos:  Klayver Alencar (A), Maria Clara Fernandes(B), Henrique Meireles(C).
