@@ -8,4 +8,6 @@ Registre aqui:
 - **Quem resolveu** (A/B/C) e **data**.
 
 -Decidimos ficar com a cor primária em verde e o modo escuro/claro com preto/branco
+-Decidimos finalizar o trabalho em casa
 
+"Versao final pronta para entrega - v1.0" 
