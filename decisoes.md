@@ -1,13 +1,13 @@
 # Diário de Decisões e Conflitos
 
-Registre aqui:
-- **Arquivo/linhas** com conflito (aproximado).
-- **Causa** (ex.: alteração simultânea da mesma linha).
-- **Alternativas consideradas**.
-- **Decisão final** e **racional**.
-- **Quem resolveu** (A/B/C) e **data**.
+**app.js ** com conflito nas linhas 16 e 21, foi alterado para updateCount
+**Causa** mudança simultânea nas mesmas linhas
+decidimos ficar com a mudança do Aluno B
+O conflito foi resolvido pelo aluno A no dia 23/09/2025
 
--Decidimos ficar com a cor primária em verde e o modo escuro/claro com preto/branco
--Decidimos finalizar o trabalho em casa
+**styles.css** com conflito na linha 2
+**Causa** mudança simultânea na mesma linha
+Decidimos ficar com a cor primária em verde e o modo escuro/claro com preto/branco
+O conflito foi resolvido pelo aluno A no dia 23/09/2025
 
-"Versao final pronta para entrega - v1.0" 
+Versao final pronta para entrega - v1.0.0
